@@ -1,2 +1,2 @@
-# Student-Management-Syatem
+# Student-Management-System
 C#, SQL Server Management Studio
